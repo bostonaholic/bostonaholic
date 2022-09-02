@@ -1,6 +1,6 @@
 ### Hi there, I'm Matthew :wave:
 
-- :book: I'm currently reading [Deep Work: Rules for Focused Success in a Distracted World ](https://www.goodreads.com/book/show/25744928-deep-work)
+- :book: I'm currently reading [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - :mailbox: How to reach me: `echo bWF0dGhld0BtYXR0aGV3Ym9zdG9uLmNvbQo= | base64 --decode`
 - 🧠 Visit my [TIL](https://github.com/bostonaholic/til) repository of Today I Learned
 - :zap: Fun fact: I have summitted `21` of Colorado's `53` 14,000ft. mountains.
