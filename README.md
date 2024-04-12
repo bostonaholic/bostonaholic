@@ -1,15 +1,24 @@
+# Hi there, I'm Matthew :wave:
+
 ![Matthew Boston's GitHub Stats](https://github-readme-stats-teal-mu-45.vercel.app/api?username=bostonaholic&show_icons=true)
 
-### Hi there, I'm Matthew :wave:
+## About me
+
+I am a software engineer passionate about delivering quality software at [ludicrous speed](https://www.youtube.com/watch?v=mk7VWcuVOf0).
 
 - :book: I'm currently reading [Building a Second Brain](https://www.goodreads.com/book/show/59616977-building-a-second-brain)
 - :mailbox: How to reach me: `echo bWF0dGhld0BtYXR0aGV3Ym9zdG9uLmNvbQo= | base64 --decode`
 - 🧠 Visit my [TIL](https://github.com/bostonaholic/til) repository of Today I Learned
 - :zap: Fun fact: I have summitted `21` of Colorado's `53` 14,000ft. mountains.
 
-### Languages and Tools:
+## Languages and tools:
 
 <img alt="Clojure" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" /><img alt="Ruby" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /><img alt="Ruby on Rails" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" /><img alt="JavaScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img alt="React" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /><img alt="PostgreSQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-<br />
-<br />
+## Contact me
+
+Send me an email at `echo bWF0dGhld0BtYXR0aGV3Ym9zdG9uLmNvbQo= | base64 --decode`.
+
+You can visit my homepage at [matthewboston.com](https://matthewboston.com).
+
+You can find me as **bostonaholic** on [Twitter](https://twitter.com/bostonaholic), [Mastodon](https://mastodon.social/@bostonaholic), [GitHub](https://github.com/bostonaholic), and [LinkedIn](https://www.linkedin.com/in/bostonaholic).
