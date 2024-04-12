@@ -1,6 +1,6 @@
-### Hi there, I'm Matthew :wave:
-
 ![Matthew Boston's GitHub Stats](https://github-readme-stats-teal-mu-45.vercel.app/api?username=bostonaholic&show_icons=true)
+
+### Hi there, I'm Matthew :wave:
 
 - :book: I'm currently reading [Building a Second Brain](https://www.goodreads.com/book/show/59616977-building-a-second-brain)
 - :mailbox: How to reach me: `echo bWF0dGhld0BtYXR0aGV3Ym9zdG9uLmNvbQo= | base64 --decode`
