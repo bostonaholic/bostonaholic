@@ -2,6 +2,8 @@
 
 ![Matthew Boston's GitHub Stats](https://github-readme-stats-teal-mu-45.vercel.app/api?username=bostonaholic&show_icons=true)
 
+_provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)_
+
 ## About me
 
 I am a software engineer passionate about delivering quality software at [ludicrous speed](https://www.youtube.com/watch?v=mk7VWcuVOf0).
