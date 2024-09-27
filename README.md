@@ -8,7 +8,7 @@ _provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-
 
 I am a software engineer passionate about delivering quality software at [ludicrous speed](https://www.youtube.com/watch?v=mk7VWcuVOf0).
 
-- :book: I'm currently reading [Building a Second Brain](https://www.goodreads.com/book/show/59616977-building-a-second-brain)
+- :book: I'm currently reading [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
 - :mailbox: How to reach me: `echo bWF0dGhld0BtYXR0aGV3Ym9zdG9uLmNvbQo= | base64 --decode`
 - 🧠 Visit my [TIL](https://github.com/bostonaholic/til) repository of Today I Learned
 - :zap: Fun fact: I have summitted **21** of Colorado's 14ers (peaks above 14,000 feet of elevation).
