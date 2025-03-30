@@ -1,8 +1,4 @@
-# Hi there, I'm Matthew :wave:
-
-![Matthew Boston's GitHub Stats](https://github-readme-stats-teal-mu-45.vercel.app/api?username=bostonaholic&show_icons=true)
-
-_provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)_
+![GitHub profile header for Matthew Boston featuring colorful code icons and the tagline "Continuous improvement of software and people"](https://github.com/user-attachments/assets/abe8c86a-cd62-414e-a661-c38ac4a8a0fd)
 
 ## About me
 
